@@ -29,9 +29,8 @@
 }
 
 .container-app {
-  width: calc(100% - 60px);
-  height: calc(100vh - 60px);
-  margin: 30px;
+  width: calc(100% - 150px);
+  margin: 0 auto;
   box-sizing: border-box;
 }
 
@@ -39,7 +38,6 @@
   width: 100%;
   height: 56px;
   padding: 12px 0;
-  border-bottom: 1.5px solid #000;
 }
 
 .custom-container {
